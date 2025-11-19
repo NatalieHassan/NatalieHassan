@@ -1,8 +1,8 @@
 - ✨ Hello, I’m @NatalieHassan ✨.
-- 💻 I'm a data📈 enthusiast who's currently learning web dev📱.
+- 💻 I'm a STEM student 👩🏾‍🎓 who loves web dev📱.
 - 🌎 I am based in the United States 🇺🇸.
 - 💌 How to reach me: natalie.hassan@yahoo.com 💌
-- 👩🏾‍💻 she/her ♈️  🚺
+- 👩🏾‍💻 she/her ♈️♋️♏️  🚺
 
 Skills: CSS3 HTML5 JavaScript React Node.js Python Jupyter SQL Tableau MongoDB
 
