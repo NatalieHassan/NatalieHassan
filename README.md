@@ -4,7 +4,7 @@
 - 💌 How to reach me: natalie.hassan@yahoo.com 💌
 - 👩🏾‍💻 she/her ♈️♋️♏️  🚺
 
-Skills: CSS3 HTML5 JavaScript React Node.js Python Jupyter SQL Tableau MongoDB
+Skills: CSS3 HTML5 JavaScript React Node.js Python Jupyter SQL Tableau MongoDB C++
 
 <p align="center">
   <a href="https://skillicons.dev">
