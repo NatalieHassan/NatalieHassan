@@ -8,7 +8,7 @@ Skills: CSS3 HTML5 JavaScript React Node.js Python Jupyter SQL Tableau MongoDB
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,bootstrap,react,nodejs,py,anaconda,mysql,mongodb"/>
+    <img src="https://skillicons.dev/icons?i=css,html,js,bootstrap,react,nodejs,py,anaconda,mysql,mongodb,cpp"/>
   </a>
 </p>
 
